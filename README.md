@@ -24,7 +24,7 @@ Compare to Fira Mono (without ligatures):
 
 Do **not** work:
 
-- SublimeText ([vote here](http://sublimetext.userecho.com/topic/433445-opentype-support-ligatures-curly-quotes-contextual-and-alternate-symbols/))
+- SublimeText ([vote here](https://sublimetext.userecho.com/topic/1030059-does-sublimetext-support-programming-ligatures-fontlike-fira-code/))
 - Intellij Idea ([vote here](https://youtrack.jetbrains.com/issue/IDEA-127539)), including everything built on top of it (PhpStorm, PyCharm, RubyMine, WebStorm, AppCode, CLion, ReSharper)
 - iTerm 2 ([feature request](https://gitlab.com/gnachman/iterm2/issues/3568))
 - OS X Terminal.app
